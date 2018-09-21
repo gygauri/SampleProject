@@ -1,2 +1,2 @@
-# SampleProject
-Gauri's first Sample Project
+#SampleProject
+Gauri Yadav's first Sample Project
