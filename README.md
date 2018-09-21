@@ -1,2 +1,2 @@
 # SampleProject
-My Sample Project
+Gauri's Sample Project
