@@ -1,2 +1,2 @@
 # SampleProject
-Gauri's Sample Project
+Gauri's first Sample Project
